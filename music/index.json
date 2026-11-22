@@ -300,7 +300,17 @@
       "bytes": 11787410,
       "duration": 267,
       "added": "2026-11-22T16:57:37.413Z"
+    },
+    {
+      "id": "bac-phan",
+      "title": "Bạc Phận",
+      "artist": "",
+      "file": "bac-phan.wav",
+      "rate": 22050,
+      "bytes": 10983212,
+      "duration": 249,
+      "added": "2026-11-22T16:57:50.611Z"
     }
   ],
-  "updated": "2026-11-22T16:57:37.413Z"
+  "updated": "2026-11-22T16:57:50.611Z"
 }
