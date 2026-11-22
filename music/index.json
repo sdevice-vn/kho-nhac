@@ -70,7 +70,17 @@
       "bytes": 8656742,
       "duration": 196,
       "added": "2026-11-22T15:20:19.699Z"
+    },
+    {
+      "id": "the-spectre",
+      "title": "The Spectre",
+      "artist": "",
+      "file": "the-spectre.wav",
+      "rate": 22050,
+      "bytes": 8547356,
+      "duration": 194,
+      "added": "2026-11-22T15:20:31.245Z"
     }
   ],
-  "updated": "2026-11-22T15:20:19.699Z"
+  "updated": "2026-11-22T15:20:31.246Z"
 }
