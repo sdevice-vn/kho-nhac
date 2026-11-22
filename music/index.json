@@ -1,4 +1,16 @@
 {
   "version": 1,
-  "tracks": []
+  "tracks": [
+    {
+      "id": "alone",
+      "title": "Alone",
+      "artist": "",
+      "file": "alone.wav",
+      "rate": 22050,
+      "bytes": 7076252,
+      "duration": 160,
+      "added": "2026-11-22T15:19:03.827Z"
+    }
+  ],
+  "updated": "2026-11-22T15:19:03.833Z"
 }
