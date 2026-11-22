@@ -10,7 +10,17 @@
       "bytes": 7076252,
       "duration": 160,
       "added": "2026-11-22T15:19:03.827Z"
+    },
+    {
+      "id": "lily",
+      "title": "Lily",
+      "artist": "",
+      "file": "lily.wav",
+      "rate": 22050,
+      "bytes": 8637212,
+      "duration": 196,
+      "added": "2026-11-22T15:19:15.789Z"
     }
   ],
-  "updated": "2026-11-22T15:19:03.833Z"
+  "updated": "2026-11-22T15:19:15.789Z"
 }
