@@ -260,7 +260,17 @@
       "bytes": 11899948,
       "duration": 270,
       "added": "2026-11-22T16:56:39.245Z"
+    },
+    {
+      "id": "bac-phan-piano-version",
+      "title": "Bạc Phận (Piano Version)",
+      "artist": "",
+      "file": "bac-phan-piano-version.wav",
+      "rate": 22050,
+      "bytes": 14318758,
+      "duration": 325,
+      "added": "2026-11-22T16:56:56.388Z"
     }
   ],
-  "updated": "2026-11-22T16:56:39.245Z"
+  "updated": "2026-11-22T16:56:56.388Z"
 }
