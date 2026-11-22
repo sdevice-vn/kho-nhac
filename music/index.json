@@ -220,7 +220,17 @@
       "bytes": 9963888,
       "duration": 226,
       "added": "2026-11-22T16:53:11.135Z"
+    },
+    {
+      "id": "lo-nguoi-uot-ao-remix-vinahouse",
+      "title": "Lo Người Ướt Áo (Remix Vinahouse)",
+      "artist": "",
+      "file": "lo-nguoi-uot-ao-remix-vinahouse.wav",
+      "rate": 22050,
+      "bytes": 12027138,
+      "duration": 273,
+      "added": "2026-11-22T16:53:24.742Z"
     }
   ],
-  "updated": "2026-11-22T16:53:11.135Z"
+  "updated": "2026-11-22T16:53:24.742Z"
 }
