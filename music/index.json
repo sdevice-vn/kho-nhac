@@ -270,7 +270,17 @@
       "bytes": 14318758,
       "duration": 325,
       "added": "2026-11-22T16:56:56.388Z"
+    },
+    {
+      "id": "em-gi-oi",
+      "title": "Em Gì Ơi",
+      "artist": "",
+      "file": "em-gi-oi.wav",
+      "rate": 22050,
+      "bytes": 10863898,
+      "duration": 246,
+      "added": "2026-11-22T16:57:08.448Z"
     }
   ],
-  "updated": "2026-11-22T16:56:56.388Z"
+  "updated": "2026-11-22T16:57:08.448Z"
 }
